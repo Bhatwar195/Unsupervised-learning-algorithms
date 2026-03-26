@@ -11,7 +11,7 @@ A structured collection of **core Unsupervised Learning algorithms** with from-s
 
 ## Overview
 
-Unsupervised Learning focuses on discovering hidden patterns in data without labeled outputs. 🧩  
+Unsupervised Learning focuses on discovering hidden patterns in data without labeled outputs.   
 This repository provides a clear understanding of how different unsupervised techniques work, both mathematically and practically.
 
 It includes:
