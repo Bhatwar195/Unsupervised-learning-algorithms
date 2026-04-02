@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-1.x-013243?style=flat&logo=numpy&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-22c55e?style=flat)
 
 A structured collection of **core Unsupervised Learning algorithms** with from-scratch implementations, practical use cases, and visual analysis using Python.
 
